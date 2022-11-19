@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--
-**aibekz/aibekz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<!-- **aibekz/aibekz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: hello@aibek.org
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Meat Lover
--->
+
