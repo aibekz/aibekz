@@ -1,7 +1,7 @@
 <a href="https://aibekz.com">
   <img
     alt="Aibek Z. - Software Developer"
-    src="https://i.postimg.cc/90qSLWCP/Screenshot-2025-07-26-at-23-28-44.png"
+    src="https://i.postimg.cc/vHZFjHzw/Screenshot-2025-07-31-at-23-05-38.png"
   />
 </a>
 
