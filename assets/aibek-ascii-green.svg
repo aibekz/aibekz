@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="972" height="172" viewBox="0 0 972 172">
+  <rect width="100%" height="100%" fill="none"/>
+  <text font-family="SFMono-Regular,Consolas,Menlo,Monaco,monospace" font-size="16" fill="#32CD32" xml:space="preserve">
+    <tspan x="16" y="32">   ░███    ░██████░████████   ░██████████ ░██     ░██           ░██    ░██ ░██     ░██ ░█████████ </tspan>
+    <tspan x="16" y="52">  ░██░██     ░██  ░██    ░██  ░██         ░██    ░██             ░██  ░██   ░██   ░██        ░██  </tspan>
+    <tspan x="16" y="72"> ░██  ░██    ░██  ░██    ░██  ░██         ░██   ░██               ░██░██     ░██ ░██        ░██   </tspan>
+    <tspan x="16" y="92">░█████████   ░██  ░████████   ░█████████  ░███████                 ░███       ░████       ░███    </tspan>
+    <tspan x="16" y="112">░██    ░██   ░██  ░██     ░██ ░██         ░██   ░██               ░██░██       ░██       ░██      </tspan>
+    <tspan x="16" y="132">░██    ░██   ░██  ░██     ░██ ░██         ░██    ░██             ░██  ░██      ░██      ░██       </tspan>
+    <tspan x="16" y="152">░██    ░██ ░██████░█████████  ░██████████ ░██     ░██    ░██    ░██    ░██     ░██     ░█████████</tspan>
+  </text>
+</svg>
