@@ -1,1 +1,1 @@
-![AIBEK ASCII](assets/aibek-ascii-green.svg)
+[![AIBEK ASCII](assets/aibek-ascii-green.svg)](https://aibek.xyz)
